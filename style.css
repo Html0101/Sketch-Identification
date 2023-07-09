@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(blue,purple,red);
+    background: linear-gradient(rgb(96, 96, 255),rgb(144, 44, 244),rgb(255, 69, 69));
 }
 h1{
     color: aliceblue;
@@ -15,7 +15,7 @@ canvas{
     border-radius: 20px;
     animation-name: example;
     animation-duration: 4s;
-    margin-top: 50px;
+    margin-top: 120px;
     animation-iteration-count: infinite;
 }
 
